@@ -17,7 +17,7 @@ This can be used as a kind of way to identify the areas where most crimes/crime 
   <img src = "images/campusmapcolored.png" width = "850">
 </p>
 
-As you may be able to see, the roads are where most of the crimes are occuring. This can be for several reasons: students likely aren't the majority of people who are reporting the crimes. The crimes occuring here are likely the campus police catching students for speeding, or other driving related crimes. Also, the roads cover a large stretch of land with high density flow of traffic through them. This increases the chances of a person committing a crime in that area.
+As you may be able to see, the roads are where most of the crimes are occurring. This can be for several reasons: students likely aren't the majority of people who are reporting the crimes. The crimes occurring here are likely the campus police catching students for speeding, or other driving related crimes. Also, the roads cover a large stretch of land with high density flow of traffic through them. This increases the chances of a person committing a crime in that area.
 
 Note: anything below 45 incident reports were not colored in and are grey on the map.
 
@@ -44,3 +44,10 @@ This refers to the time of day.
 #### Incidents closed by ARREST: 2847
 #### Incidents ASSIGNED: 642
 #### Incidents INACTIVE: 1378
+
+
+Times Misspelled "graffiti": 2
+
+Times Misspelled "paraphernalia": 4
+
+Times Misspelled "harass": 4
