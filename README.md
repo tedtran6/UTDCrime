@@ -32,8 +32,15 @@ Note: anything below 45 incident reports were not colored in and are grey on the
 </p>
 
 ### Instances of "PM" versus "AM" in Reports.
-
+This refers to the time of day.
 
 <p float="left">
   <img src = "images/amvspm.png" width = "750">
 </p>
+
+
+## Weird or Interesting Misc Things:
+
+#### Incidents closed by ARREST: 2847
+#### Incidents ASSIGNED: 642
+#### Incidents INACTIVE: 1378
