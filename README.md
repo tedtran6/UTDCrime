@@ -55,3 +55,5 @@ Times Misspelled "harass": 4
 It's pretty funny that they made these spelling mistakes honestly, but I don't judge them. They've got a hard job, and their system probably doesn't have a spell-check. I wasn't even super sure myself how to spell 'paraphernalia'
 
 As you can see, a lot of different crimes happen at UTD even if we don't see it ourselves, so it's good to be a little more aware of the situation we're all in. I really did want to make this an actual website to begin with so that students could visit it and be more informed about all the stuff going on, but maybe that'll be a project for later.
+
+I likely won't be updating these statistics for the later crimes after this semester of 2019. However I will be interested in possibly finishing an interactive website to consolidate and display these statistics we've gathered.
