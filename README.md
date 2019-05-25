@@ -23,10 +23,17 @@ Note: anything below 45 incident reports were not colored in and are grey on the
 
 ### Categories of Crime Reported at UTD.
 <p float="left">
-  <img src = "images/categoriesofcrime.png" width = "600">
+  <img src = "images/categoriesofcrime.png" width = "750">
 </p>
 
-### Categories of Crime Reported at UTD.
+### Instances of "Male" versus "Female" in Reports.
 <p float="left">
-  <img src = "images/malevsfemale.png" width = "600">
+  <img src = "images/malevsfemale.png" width = "750">
+</p>
+
+### Instances of "PM" versus "AM" in Reports.
+
+
+<p float="left">
+  <img src = "images/amvspm.png" width = "750">
 </p>
