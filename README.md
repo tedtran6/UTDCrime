@@ -51,3 +51,5 @@ Times Misspelled "graffiti": 2
 Times Misspelled "paraphernalia": 4
 
 Times Misspelled "harass": 4
+
+It's pretty funny that they made these spelling mistakes honestly, but I don't judge them. They've got a hard job, and their system probably doesn't have a spell-check. I wasn't even super sure myself how to spell 'paraphernalia'
